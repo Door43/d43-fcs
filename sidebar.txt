@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fcs:home|Door43 (fcs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fcs|d43-fcs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fcs/archive/master.zip|d43-fcs.zip]]
+
+**Recent Changes**
+{{changes>ns = fcs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fcs|Ethnologue data]]
+
